@@ -1,1 +1,1 @@
-{"base": "e4f39d3b", "parent": "debian/rolling/transmission_interface", "previous": "40f2a11b", "trim": "", "trimbase": ""}
+{"base": "974b7e05", "parent": "debian/humble/transmission_interface", "previous": "e779cc54", "trim": "", "trimbase": ""}
