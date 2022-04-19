@@ -1,1 +1,1 @@
-{"base": "2a0a92bd", "parent": "debian/rolling/controller_manager_msgs", "previous": "ac87e31b", "trim": "", "trimbase": ""}
+{"base": "11f4e9e7", "parent": "debian/humble/controller_manager_msgs", "previous": "f2c04fc6", "trim": "", "trimbase": ""}
